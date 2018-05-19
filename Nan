@@ -1,0 +1,5 @@
+if Nan == Nan then
+print("Я равен сам себе")
+else
+print("Я не равен сам себе")
+end
